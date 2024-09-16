@@ -11,9 +11,9 @@ This is a simple password manager built using Python and Tkinter. It allows user
 
 ## Libraries Used
 
-  Tkinter: A Python library for creating graphical user interfaces (GUIs).
-  Cryptography: A Python library used to securely encrypt and decrypt passwords with the Fernet encryption scheme.
-  JSON: For saving and loading password data in a structured format from a local text file.
+Tkinter: A Python library for creating graphical user interfaces (GUIs).
+Cryptography: A Python library used to securely encrypt and decrypt passwords with the Fernet encryption scheme.
+JSON: For saving and loading password data in a structured format from a local text file.
 
 ## Installation
 
