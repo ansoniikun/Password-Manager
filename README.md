@@ -20,7 +20,7 @@ This is a simple password manager built using Python and Tkinter. It allows user
 Clone the repository:
 
 ```
-git clone https://github.com/yourusername/password-manager.git
+git clone https://github.com/ansoniikun/Password-Manager.git
 cd password-manager
 ```
 
