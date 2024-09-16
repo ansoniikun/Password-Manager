@@ -32,7 +32,7 @@ pip install cryptography
 
 Run the program:
 ```
-python password_manager.py
+python3 password_manager.py
 ```
 
 ## How to Use
